@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a budding software developer currently enrolled on a bootcamp with the School of Code (Bootcamp 12).
+
+Aside from acquiring technical skills, I am also looking forward to strengthening my ability to colloborate and work effectively in a team environment. 
+
+
+
+
